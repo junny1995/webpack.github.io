@@ -1,0 +1,14 @@
+.user {
+  font-size: 20px;
+  list-style: none;
+}
+
+.photo {
+  border-radius: 150px;
+  width: 30px;
+  height: 30px;
+}
+body {
+  background-color: #000;
+  color: #fff;
+}
